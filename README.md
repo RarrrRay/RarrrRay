@@ -1,16 +1,27 @@
-## Hi there 👋
+<img width="1500" height="500" alt="GHBanner2" src="https://github.com/user-attachments/assets/935c11ab-d74c-458f-89f0-6069a30d63b6" />
 
-<!--
-**RarrrRay/RarrrRay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About Me:
 
-Here are some ideas to get you started:
+<p>My passion is Computer Science, and I am pursuing my dreams by studying at Surrey University.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>I love working on both software and hardware and I am very keen to learn anything about either!</p>
+
+<p>Currently I am working on some passion projects and doing research into topics that interest me looking for inspiration where I can.  :P</p>
+
+<p>I have some interesting past experience such as teaching children about python's application in computer vision and pathfinding in a masterclass</p>
+
+<div>________________________________________________________________________________________________________________________________________________________</div>
+
+# Skills: 
+
+### Main Skills
+
+[![My Skills](https://skillicons.dev/icons?i=java,cs,dotnet,haskell,regex,linux,mysql,sqlite,visualstudio,vscode,androidstudio,ps,github,gitlab)](https://skillicons.dev)
+
+### Developing skills
+
+[![My Skills](https://skillicons.dev/icons?i=rust,lua,html,py)](https://skillicons.dev)
+
+## Find me on:
+
+[![My Skills](https://skillicons.dev/icons?i=github,linkedin,gmail)](https://skillicons.dev)
