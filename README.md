@@ -10,8 +10,6 @@
 
 <p>I have some interesting past experience such as teaching children about python's application in computer vision and pathfinding in a masterclass</p>
 
-<div>_________________________________________________________________________________________________________________________________________________</div>
-
 # Skills: 
 
 ### Main Skills
