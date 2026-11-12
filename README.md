@@ -16,12 +16,12 @@
 
 ### Main Skills
 
-[![My Skills](https://skillicons.dev/icons?i=java,cs,dotnet,haskell,regex,linux,mysql,sqlite,visualstudio,vscode,androidstudio,ps,github,gitlab)](https://skillicons.dev)
+[![My Main Skills](https://skillicons.dev/icons?i=java,cs,dotnet,haskell,regex,linux,mysql,sqlite,visualstudio,vscode,androidstudio,ps,github,gitlab)](https://skillicons.dev)
 
 ### Developing skills
 
-[![My Skills](https://skillicons.dev/icons?i=rust,lua,html,py)](https://skillicons.dev)
+[![My Developing Skills](https://skillicons.dev/icons?i=rust,lua,html,py)](https://skillicons.dev)
 
 ## Find me on:
 
-[![My Skills](https://skillicons.dev/icons?i=github,linkedin,gmail)](https://skillicons.dev)
+[![My Socials](https://skillicons.dev/icons?i=github,linkedin,gmail)](https://skillicons.dev)
