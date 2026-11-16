@@ -18,7 +18,7 @@
 
 ### Developing skills
 
-[![My Developing Skills](https://skillicons.dev/icons?i=rust,lua,html,py)](https://skillicons.dev)
+[![My Developing Skills](https://skillicons.dev/icons?i=rust,c,lua,html,py)](https://skillicons.dev)
 
 ## Find me on:
 
