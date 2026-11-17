@@ -22,4 +22,8 @@
 
 ## Find me on:
 
-[![My Socials](https://skillicons.dev/icons?i=github,linkedin,gmail)](https://skillicons.dev)
+[![My Socials](https://skillicons.dev/icons?i=github)](https://github.com/RarrrRay)
+[![My Socials](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ryan--kill)
+[![My Socials](https://skillicons.dev/icons?i=gmail)](mailto:ryan.kill314@gmail.com)
+
+
